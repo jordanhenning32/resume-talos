@@ -3,7 +3,7 @@
 **A multi-agent system that writes job-tailored resumes and cover letters that are grounded in your real experience, optimized for AI screeners, and quality-gated — every single claim traced back to a verified fact before anything exports.**
 
 Resume Talos takes a job description and a knowledge base of your professional
-history, then runs a fleet of **20 specialized AI agents** to analyze the role,
+history, then runs a fleet of **a fleet of specialized AI agents** to analyze the role,
 score fit, retrieve the right evidence, draft and revise, simulate how automated
 screeners and recruiters will read the result, and hard-gate on groundedness
 before writing a single DOCX or PDF.
