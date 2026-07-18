@@ -15,6 +15,23 @@ knowledge-base fact.
 
 ---
 
+## What it looks like
+
+![Resume Talos dashboard — a 10-step quality-gated pipeline, live monthly spend, and knowledge-base fact count at a glance](docs/screenshots/resume-talos-dashboard.png)
+
+<table>
+<tr>
+<td width="50%"><img src="docs/screenshots/resume-talos-screening.png" alt="AI screening coverage — literal-keyword and semantic ATS scores plus a simulated recruiter triage verdict"></td>
+<td width="50%"><img src="docs/screenshots/resume-talos-knowledge-base.png" alt="Knowledge base — the grounded professional history: documents, chunks, and extracted facts"></td>
+</tr>
+</table>
+
+<p align="center"><em>Two layers of ATS simulation and a recruiter-triage verdict (left) · a grounded knowledge base every claim traces back to (right)</em></p>
+
+![Export templates — three ATS-aware layouts (Classic / Executive / Modern), each producing both DOCX and PDF](docs/screenshots/resume-talos-templates.png)
+
+---
+
 ## Pipeline
 
 ```mermaid
