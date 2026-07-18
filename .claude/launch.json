@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "next-dev",
+      "runtimeExecutable": "C:\\Program Files\\nodejs\\corepack.cmd",
+      "runtimeArgs": ["pnpm", "dev"],
+      "port": 3000,
+      "env": {
+        "ANTHROPIC_BASE_URL": "https://api.anthropic.com/v1"
+      }
+    }
+  ]
+}
