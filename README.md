@@ -135,8 +135,3 @@ pnpm exec tsc --noEmit   # type check
 pnpm db:studio           # browse the DB
 ```
 
----
-
-## About this repository
-
-This is a **clean public snapshot**. The system was designed, built, and iterated privately over months of real use, then published here as a single squashed release — the original commit history is withheld to protect client data and internal IP. The engineering is fully represented; I'm glad to walk through the real development history and the live system on a call.
